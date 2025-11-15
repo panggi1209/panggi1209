@@ -1,6 +1,6 @@
 <!-- Wave Animation Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PanggiJoelian/waves/main/animated-wave.svg" width="100%" />
+  <img src="[https://raw.githubusercontent.com/PanggiJoelian/waves/main/animated-wave.svg](https://github.com/panggi1209/svg.git)" width="100%" />
 </p>
 <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
   
