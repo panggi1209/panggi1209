@@ -54,17 +54,11 @@
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img src="https://raw.githubusercontent.com/panggi1209/svg/main/animasi.svg" width="100%" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
 
 ## ✉️ Hubungi Saya
 <div align="center">
