@@ -3,7 +3,7 @@
  
   <img src="https://raw.githubusercontent.com/panggi1209/svg/main/backround.svg" width="100%" />
 </p>
-" width="100%" />
+
 </p>
 <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
   
